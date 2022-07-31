@@ -17,4 +17,4 @@ const filmRating2 = prompt("На сколько его оцените?", "");
 personalMovieDB.movies[lastFilm] = filmRating;
 personalMovieDB.movies[lastFilm2] = filmRating2;
 
-console.log(personalMovieDB);
+console.log(personalMovieDB); 
